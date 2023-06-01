@@ -4,7 +4,7 @@
 
 ### <a href="https://documenter.getpostman.com/view/23389689/2s93m8xKaf">📑 Artwork API Document</a>
 
-### <a href="">📑 Artist API Document</a>
+### <a href="https://documenter.getpostman.com/view/23389689/2s93mBwJyG">📑 Artist API Document</a>
 
 ### <a href="">📑 Exhibition API Document</a>
 
