@@ -8,7 +8,7 @@
 
 ### <a href="">📑 Exhibition API Document</a>
 
-### <a href="https://docs.google.com/document/d/155PZaictiHvBu39ALJKqT-Ghydsygtmi9WsiORSXCRI/edit?usp=sharing">📑 Troubleshooting Plan</a>
+### <a href="https://docs.google.com/document/d/155PZaictiHvBu39ALJKqT-Ghydsygtmi9WsiORSXCRI/edit?usp=sharing">📑 Troubleshooting Guide</a>
 
 ### <a href="https://docs.google.com/document/d/1wKqRVYzxNwHEQMGDJA9okuYBnzrMUmL_btbaPoKrrZY/edit?usp=drive_link">📑 Project Document Map</a>
 
