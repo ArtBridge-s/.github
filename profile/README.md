@@ -8,6 +8,8 @@
 
 ### <a href="">📑 Exhibition API Document</a>
 
+### <a href="https://docs.google.com/document/d/1wKqRVYzxNwHEQMGDJA9okuYBnzrMUmL_btbaPoKrrZY/edit?usp=drive_link">📑 Project Document Map</a>
+
 ### <a href="">🗯️ ArtBridge Event-Storm</a>
 
 ### <a href="">🖋️ ArtBridge UI Design</a>
