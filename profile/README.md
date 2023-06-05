@@ -1,4 +1,4 @@
-### <a href="https://artbridge-s.github.io/ProjectPlan">📑 ArtBridge Project Plan</a>
+### <a href="https://docs.google.com/document/d/1kf_cxqEqJ0bHN7kmhLU3bXu3zMSUedux1ZangFXy4QM/edit?usp=sharing">📑 ArtBridge Project Plan</a>
 
 ### <a href="https://documenter.getpostman.com/view/23389689/2s93m7XNAd">📑 Auth API Document</a>
 
