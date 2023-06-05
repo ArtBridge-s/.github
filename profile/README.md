@@ -1,5 +1,5 @@
 # Document Map
-아트브릿지 프로젝트에 참여하는 개발자와 기타 이해당사자들이 반드시 알아야 하거나 참고할 수 있는 도큐먼트 목록입니다.
+아트브릿지 프로젝트에 참여하는 팀원과 기타 이해당사자들이 반드시 알아야 하거나 참고할 수 있는 도큐먼트 목록 👀
 
 ### <a href="https://docs.google.com/document/d/1kf_cxqEqJ0bHN7kmhLU3bXu3zMSUedux1ZangFXy4QM/edit?usp=sharing">📑 ArtBridge Project Plan</a>
 
