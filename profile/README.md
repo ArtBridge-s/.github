@@ -15,6 +15,8 @@
 
 ### <a href="https://docs.google.com/document/d/1wKqRVYzxNwHEQMGDJA9okuYBnzrMUmL_btbaPoKrrZY/edit?usp=drive_link">📑 Project Document Map</a>
 
+### <a href="https://docs.google.com/spreadsheets/d/13twho9c4r748ppID__yHpZEdykgPUnCKgOfCarTrf6k/edit?usp=sharing">📑 Issue Tracking</a>
+
 ### <a href="">🗯️ ArtBridge Event-Storm</a>
 
 ### <a href="">🖋️ ArtBridge UI Design</a>
