@@ -9,7 +9,7 @@
 
 ### <a href="https://documenter.getpostman.com/view/23389689/2s93mBwJyG">📑 Artist API Document</a>
 
-### <a href="">📑 Exhibition API Document</a>
+### <a href="https://documenter.getpostman.com/view/23389689/2s93shzpR5">📑 Exhibition API Document</a>
 
 ### <a href="https://docs.google.com/document/d/155PZaictiHvBu39ALJKqT-Ghydsygtmi9WsiORSXCRI/edit?usp=sharing">📑 Troubleshooting Guide</a>
 
