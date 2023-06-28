@@ -13,7 +13,7 @@
 
 ### <a href="https://artbridge-s.github.io/ProjectPlan/Troubleshooting%20%EC%A7%80c%EC%B9%A8%20-%20Google%20Docs.html">📑 Troubleshooting Guide</a>
 
-### <a href="https://artbridge-s.github.io/ProjectPlan/7%EC%A1%B0+%EC%95%84%ED%8A%B8%EB%B8%8C%EB%A6%BF%EC%A7%80+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EC%A2%85%EB%A3%8C+%EA%B3%84%ED%9A%8D%EC%84%9C.html">📑 Project Closure Report</a>
+### <a href="https://artbridge-s.github.io/ProjectPlan/%EC%A2%85%EB%A3%8C%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20-%20Goo.html">📑 Project Closure Report</a>
 
 ### <a href="https://docs.google.com/spreadsheets/d/13twho9c4r748ppID__yHpZEdykgPUnCKgOfCarTrf6k/edit?usp=sharing">📑 Issue Tracking</a>
 
